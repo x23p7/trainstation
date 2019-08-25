@@ -57,7 +57,7 @@ LightmapSettings:
   m_LightmapEditorSettings:
     serializedVersion: 12
     m_Resolution: 2
-    m_BakeResolution: 35
+    m_BakeResolution: 10
     m_AtlasSize: 1024
     m_AO: 0
     m_AOMaxDistance: 1
@@ -6206,8 +6206,8 @@ Transform:
   - {fileID: 308179762}
   - {fileID: 748683325}
   - {fileID: 1403540841}
-  - {fileID: 983856964}
   - {fileID: 1398576430}
+  - {fileID: 983856964}
   - {fileID: 1088143022}
   m_Father: {fileID: 1958669884}
   m_RootOrder: 4
